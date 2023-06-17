@@ -1,4 +1,4 @@
-# atria
+# Portfolio Yoon
 Site portfolio pessoal desenvolvido utilizando HTML, CSS e JavaScript.
 
 Por ter começado a aprender programação recentemente, no primeiro semestre da faculdade, o site possui poucas informações e nenhum projeto, tendo em vista que esse é meu primeiro projeto.
